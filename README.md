@@ -1,4 +1,7 @@
 ### Hi there 👋
+## Github Profile 
+### *Beatriz*
+**Full Stack Developer**
 
 ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCPerez&show_icons=true&theme=radical)
 
