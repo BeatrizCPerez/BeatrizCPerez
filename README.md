@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">Una apasionada desarrolladora frontend</h3>- 🔭 Actualmente estoy trabajando en **Proyectos**- Actualmente estoy aprendiendo **React, Taildwild y Angular**- 📫 🌱 Cómo contactarme **Beatrizcustodio262@gmail.com**
+<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">Una apasionada desarrolladora frontend</h3>- 🔭 Actualmente estoy trabajando en **Proyectos con las tecnologias aprendidas**- Actualmente estoy aprendiendo **React, Taildwind y Angular**- 📫 🌱 Cómo contactarme **Beatrizcustodio262@gmail.com**
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-<a href="https://linkedin.com/in/beatriz c perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz c perez" height="30" width="40" /></a></p><h3 align="left">Idiomas y herramientas:</h3>
+<a href="[https://www.linkedin.com/in/beatriz-c-perez-668ba42a0]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz c perez" height="30" width="40" /></a></p><h3 align="left">Idiomas y herramientas:</h3>
 
 
 
