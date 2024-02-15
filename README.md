@@ -9,7 +9,7 @@
 
 
 
-<a href="[https://www.linkedin.com/in/beatriz-c-perez-668ba42a0]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz c perez" height="30" width="40" /></a></p><h3 align="left">Idiomas y herramientas:</h3>
+<a href="https://www.linkedin.com/in/beatriz-c-perez-668ba42a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz c perez" height="30" width="40" /></a></p><h3 align="left">Idiomas y herramientas:</h3>
 
 
 
