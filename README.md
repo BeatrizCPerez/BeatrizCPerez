@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">Una apasionada desarrolladora frontend</h3>- 🔭 Actualmente estoy trabajando en Proyectos con las tecnologias aprendidas- Actualmente estoy aprendiendo  React, Taildwind y Angular - 📫 🌱 Cómo contactarme Beatrizperezcp@gmail.com
+<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">Una apasionada desarrolladora frontend</h3>- 🔭 Actualmente estoy trabajando en Proyectos con las tecnologias aprendidas- Actualmente estoy aprendiendo  React, Express, Node 📫 🌱 Cómo contactarme Beatrizperezcp@gmail.com
 
 
 
