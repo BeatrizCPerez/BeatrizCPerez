@@ -1,9 +1,4 @@
-<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">Una apasionada desarrolladora frontend</h3>- 🔭 Actualmente estoy trabajando en Proyectos con las tecnologias aprendidas- Actualmente estoy aprendiendo  React, Express, Node 📫 🌱 Cómo contactarme Beatrizperezcp@gmail.com
-
-
-
-
-
+<h1 align="center">Hola 👋, soy Beatriz</h1><h3 align="center">"¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de proyectos tecnológicos que he desarrollado, que abarcan desde aplicaciones web hasta scripts y herramientas útiles. Estoy apasionada por la programación y siempre estoy buscando aprender y experimentar con nuevas tecnologías. Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes alguna pregunta o sugerencia. ¡Gracias por visitar!"
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 
